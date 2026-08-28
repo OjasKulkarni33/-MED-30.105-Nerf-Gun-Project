@@ -1,5 +1,6 @@
 <br>
 This repository contains report and CAD files of different sub-assemblies as well as the full assembly of Nerf Elite 2.0 Eaglepoint RD-8 Gun. 
+<br>
 The Nerf Gun's analysis has been broken down into 3 main Subsystems:
 
 <br>
@@ -13,6 +14,8 @@ The Nerf Gun's analysis has been broken down into 3 main Subsystems:
 </br>
 
 <p>
+  Inside the report : 
+  <br>
 -> FBD of each of the components inside the subsystems are attached
   <br>
 -> Forces and torques acting have been analyzed quantitatively
