@@ -9,6 +9,9 @@ The Nerf Gun's analysis has been broken down into 3 main Subsystems:
 3. Drum Rotation
 
 </br>
+-> FBD of each of the components inside the subsystems are attached
+-> Forces and torques acting have been analyzed quantitatively
+-> Weakest parts have been identified with suggestions to modify them
 <br>
 Video Link - https://youtu.be/Xe9KJtApN_8
 </br>
