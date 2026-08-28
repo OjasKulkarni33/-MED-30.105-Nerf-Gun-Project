@@ -2,6 +2,7 @@
 <p>
 This repository contains report and CAD files of different sub-assemblies as well as the full assembly of Nerf Elite 2.0 Eaglepoint RD-8 Gun. 
 </p>
+<p>
 <br>
 The Nerf Gun's analysis has been broken down into 3 main Subsystems:
 
@@ -11,7 +12,7 @@ The Nerf Gun's analysis has been broken down into 3 main Subsystems:
 2. Firing
 <br>
 3. Drum Rotation
-
+</p>
 
 </br>
 
