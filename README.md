@@ -1,7 +1,11 @@
 <br>
 <p>
-This repository contains report and CAD files of different sub-assemblies as well as the full assembly of Nerf Elite 2.0 Eaglepoint RD-8 Gun. 
+This project has been done as part of the module 30.105 Machine Element Design Spring 2026 with a budget of SGD 150
+
 </p>
+<p>
+This repository contains report and CAD files of different sub-assemblies as well as the full assembly of Nerf Elite 2.0 Eaglepoint RD-8 Gun. 
+
 <p>
 <br>
 The Nerf Gun's analysis has been broken down into 3 main Subsystems:
@@ -28,7 +32,10 @@ The Nerf Gun's analysis has been broken down into 3 main Subsystems:
 </p>
 
 <br>
-Video Link - https://youtu.be/Xe9KJtApN_8
+Project Video Link - https://youtu.be/Xe9KJtApN_8
+</br>
+<br>
+Link to Jared Owen's video that we referenced - https://www.youtube.com/watch?v=N8JpePwvuHw
 </br>
 <br>
 Contributors- Raina, Rey, Cheyenne 
